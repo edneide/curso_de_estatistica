@@ -11,6 +11,8 @@ Abaixo, você encontra o link para baixá-los:
 
 **R para Mac OS:** <https://cran.r-project.org/bin/macosx/>
 
+**RStudio:** <https://rstudio.com/products/rstudio/download/>
+
 
 ### 📝 Parte 1: Conceitos Básicos
 

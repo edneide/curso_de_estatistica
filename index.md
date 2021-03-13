@@ -7,9 +7,9 @@ Este é um curso introdutório de Estatística usando a linguagem de programaç�
 
 Abaixo, você encontra o link para baixá-los:
 
-**Windows:** https://cran.r-project.org/bin/windows/base/
+**R para Windows:** <https://cran.r-project.org/bin/windows/base/>
 
-**Mac OS:** https://cran.r-project.org/bin/macosx/
+**R para Mac OS:** <https://cran.r-project.org/bin/macosx/>
 
 
 ### 📝 Parte 1: Conceitos Básicos

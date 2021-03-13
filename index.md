@@ -1,5 +1,7 @@
 ## Introdução à Estatística com R 👩‍💻	📊	
 
+[![author](https://img.shields.io/badge/author-edneideramalho-red.svg)](https://www.linkedin.com/in/edneide-ramalho-05054ba2/)
+
 Este é um curso introdutório de Estatística usando a linguagem de programação R. 
 É necessário instalar o **R** e **RStudio** no seu computador, para que você possa acompanhar as atividades do curso e rodar os seus scripts.
 

@@ -5,6 +5,13 @@
 Este é um curso introdutório de Estatística usando a linguagem de programação R. 
 É necessário instalar o **R** e **RStudio** no seu computador, para que você possa acompanhar as atividades do curso e rodar os seus scripts.
 
+Abaixo, você encontra o link para baixá-los:
+
+**Windows:** https://cran.r-project.org/bin/windows/base/
+
+**Mac OS:** https://cran.r-project.org/bin/macosx/
+
+
 ### 📝 Parte 1: Conceitos Básicos
 
 Nesta parte vamos entender alguns conceitos básicos como:

@@ -1,4 +1,4 @@
-## Introdução à Estatística com R 👩‍💻	:bar_chart:
+## Introdução à Estatística com R 👩‍💻	📊	
 
 Este é um curso introdutório de Estatística usando a linguagem de programação R. 
 É necessário instalar o **R** e **RStudio** no seu computador, para que você possa acompanhar as atividades do curso e rodar os seus scripts.

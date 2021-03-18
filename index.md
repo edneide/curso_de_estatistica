@@ -45,5 +45,5 @@ Nesta parte vamos entender alguns conceitos básicos como:
 
 ### 📝 Parte 5: Teste de Hipóteses
 
-- O que teste de hipóteses
+- O que é teste de hipóteses
 
